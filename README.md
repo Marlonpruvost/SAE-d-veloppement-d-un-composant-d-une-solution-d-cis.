@@ -63,7 +63,7 @@ Ce projet permet de comprendre :
 
 sae_api/
 │
-├── app.py # Code principal de l’API Flask
+├── APP.py # Code principal de l’API Flask
 ├── README.md # Documentation du projet
 
 
@@ -83,7 +83,7 @@ pip install flask
 
 ### 3. Lancer l’API
 
-python app.py
+python APP.py
 
 ## Accès à l’API
 
